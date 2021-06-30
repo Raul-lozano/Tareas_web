@@ -4,7 +4,7 @@
 class Calcular:
     def __init__(self):
          pass
-    def variable(self):
+    def centinela(self):
         print("")
         produc=1
         suma=0
@@ -16,5 +16,4 @@ class Calcular:
              prod=prod*numero
              print(" ")   
         print("""Total de la suma es:""",suma,"""Total del producto es: """,prod)
-    print(" ")
-    variable(" ")
+    centinela(" ")
