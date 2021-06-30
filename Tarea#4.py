@@ -10,6 +10,6 @@ class dato:
             print()
             print("Exelente")
         if cal<7:
-            print("aceptable")
+            print("Reprobado")
             print()
     Alumno(" ")
